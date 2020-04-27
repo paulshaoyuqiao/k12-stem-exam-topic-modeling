@@ -1,2 +1,2 @@
-# k12-stem-exam-topic-modeling
+# ACR Stem Exam Topic Modeling
 Topic Modeling of the ACR Science Exam Questions 
