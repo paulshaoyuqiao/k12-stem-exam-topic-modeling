@@ -1,0 +1,486 @@
+MAT	Matter					
+MAT_FUND		Fundamental Concepts (e.g. takes up space, has mass, two objects cannot occupy the same place at the same time, matter is made up of atoms)				
+MAT_MIXTURES		Mixtures				
+MAT_MIXTURES_HETERO			Heterogeneous (a physical, not chemical combination -- like sand and marbles mixed together)			
+MAT_MIXTURES_COMPOUNDS			Compounds/Homogeneous mixtures			
+MAT_MIXTURES_ALLOYS			Metalic Alloys			
+MAT_MIXTURES_SEPHETERO			Separating Heterogeneous mixtures (e.g. separating aluminum and steel cans)			
+MAT_MIXTURES_SEPCOMPOUNDS			Separating Compounds (e.g. evaporation, settling, filtration)			
+MAT_PROPO		Properties of Objects				
+MAT_PROPO_CLASS			Object Classification			
+MAT_PROPO_LEN			Length/Width			
+MAT_PROPO_VOL			Volume			
+MAT_PROPO_SIZE			Size			
+MAT_PROPO_SHAPE			Shape			
+MAT_PROPO_MASS			Mass/Weight			
+MAT_PROPO_TEMP			Temperature			
+MAT_PROPO_TEXT			Texture			
+MAT_PROPO_DENSITY			Density (when talking about an object made of many materials/compounds)			
+MAT_PROPMATERIAL		Properties of Materials				
+MAT_PROPMATERIAL_CLASS			Material Classification			
+MAT_PROPMATERIAL_ELECCOND			Electrical Conductivity			
+MAT_PROPMATERIAL_THERMCOND			Thermal Conductivity			
+MAT_PROPMATERIAL_MAG			Magnetism			
+MAT_PROPMATERIAL_HARD			Hardness/Softness			
+MAT_PROPMATERIAL_FLEX			Flexibility			
+MAT_PROPMATERIAL_DUR			Durability			
+MAT_PROPMATERIAL_BOUY			Bouyancy			
+MAT_PROPMATERIAL_DENSITY			Density (when talking about a specific material, element, or compound/substance)			
+MAT_PROPMATERIAL_PH			pH			
+MAT_PROPMATERIAL_SPECIFICHEAT			Specific Heat			
+MAT_PROPMATERIAL_ODOR			Odor			
+MAT_PROPMATERIAL_SOUND			Sound			
+MAT_PROPMATERIAL_TASTE			Taste			
+MAT_PROPMATERIAL_FLAMMABLE			Flammability (is a material combustable?)			
+MAT_PROPMATERIAL_SOLUBILITY			Solubility (ability of a substance to dissolve in another substance, the solvant)			
+MAT_PROPMATERIAL_LUSTER			Luster (light interation with crystals or minerals)			
+MAT_PROPMATERIAL_COL			Color			
+MAT_PROPMATERIAL_TRANSPARENT			Transparency (Transparent vs Opaque)			
+MAT_PROPMATERIAL_REFLECT			Reflectivity (Reflective vs Absorbant to light)			
+MAT_MEAS		Measurement				
+MAT_MEAS_UNIT			Units (Questions about what units would be appropriate, or interpretations of units (e.g. pH of 2 is an acid)			
+MAT_MEAS_UNIT_VOL				Volume		
+MAT_MEAS_UNIT_MASS				Mass/Weight		
+MAT_MEAS_UNIT_DENSITY				Density		
+MAT_MEAS_UNIT_DIST				Distance (includes Height/Depth and Length)		
+MAT_MEAS_UNIT_TEMP				Temperature		
+MAT_MEAS_UNIT_TIME				Time		
+MAT_MEAS_UNIT_SPEED				Speed		
+MAT_MEAS_UNIT_PH				pH		
+MAT_MEAS_UNIT_PRESSURE				Pressure (e.g. pascals)		
+MAT_MEAS_INST			Measuring Instruments			
+MAT_MEAS_INST_MAGNIFY				Magnification		
+MAT_MEAS_INST_RULER				Rulers		
+MAT_MEAS_INST_THERM				Thermometers		
+MAT_MEAS_INST_GRADUATED				Graduated Cylinders		
+MAT_MEAS_INST_BALANCE				Balances		
+MAT_MEAS_INST_COMPASS				Compasses		
+MAT_MEAS_INST_CLOCK				Clock/Timer/Stopwatch		
+MAT_MEAS_INST_LITMUS				Litmus paper		
+MAT_MEAS_INST_PROTRACTOR				Protractor (angle measurement)		
+MAT_MEAS_INST_PRESSURE				Pressure measurement (e.g. pressure gauge)		
+MAT_ENVEFF		Environmental Effects on Properties (e.g. temperature -- hot or cold; lighting -- shadows, color; moisture -- wet or dry)				
+MAT_ENVEFF_TEMP			Temperature (e.g. thermal expansion)			
+MAT_ENVEFF_LIGHT			Lighting			
+MAT_ENVEFF_MOISTURE			Moisture			
+MAT_STATES		States of Matter (solids have definite shape and volume, etc.)				
+MAT_STATES_SOLID			Solid			
+MAT_STATES_LIQUID			Liquid			
+MAT_STATES_GAS			Gas			
+MAT_COS		Changes of State				
+MAT_COS_TEMP			Temperature determines state			
+MAT_COS_BOILING			Boiling/Vaporizing			
+MAT_COS_FREEZING			Freezing			
+MAT_COS_MELTING			Melting			
+MAT_COS_CONDENSING			Condensing			
+MAT_COS_EVAP			Evaporating			
+MAT_COS_SUBL			Sublimation			
+MAT_CHANGES		Changes				
+MAT_CHANGES_PHYSICAL			Physical Changes/Properties			
+MAT_CHANGES_CHEMICAL			Chemical Changes/Properties			
+MAT_CHEM		Chemistry				
+MAT_CHEM_PERIODICTAB			Periodic Table, Properties of Elements in particular Groups/Columns.  Symbols for specific elements (e.g. Magnesium = Mg). Properties of elements (e.g. Element X has a melting point of..., one or more atoms of an element have the properties of that element, an element is identified by its number of protons, etc )			
+MAT_CHEM_ATOMIC			Atoms, components of atoms (e.g. nucleus, protons, neutrons, electrons) and the charge/masses/etc of these subatomic particles			
+MAT_CHEM_ELEMVSCOMP			Elements versus Molecules/Compounds (e.g. H is an element, H2O is a molecule)			
+MAT_CHEM_CHEMREACT			Chemical Reactions			
+MAT_CHEM_ENDOEXO			Exothermic/Endothermic reactions			
+MAT_CHEM_CONSMASS			Conservation of Mass -- the mass of the chemicals going into a reaction is the same as the mass of the chemicals leaving a reaction			
+MAT_CHEM_ACIDSBASES			Acid and Base reactions			
+						
+						
+						
+ENG	Energy					
+ENG_FORMS		Forms of Energy, and Identifying Forms of Energy (energy exists in various forms: heat, electric, sound, chemical, mechanical, light)				
+ENG_FORMS_HEAT			Heat			
+ENG_FORMS_ELEC			Electric			
+ENG_FORMS_SOUND			Sound			
+ENG_FORMS_CHEM			Chemical			
+ENG_FORMS_MECH			Mechanical			
+ENG_FORMS_LIGHT			Light			
+ENG_CONSERVATION		Conservation of Energy -- in a closed system, energy is neither created nor destroyed, it only changes form.				
+ENG_ELEC		Electricity				
+ENG_ELEC_CIRCUITS			Electrical Circuits (e.g. energy travels in a closed circuit)			
+ENG_ELEC_COND			Electrical Conductivity/Insulation			
+ENG_ELEC_OHMSLAW			Ohm's Law (Current = Voltage / Resistance)			
+ENG_ELEC_GENERATE			Generation/Sources of Electrical Energy/Generators.  Also Solar, Nuclear, Natural Gas, Geothermal, Coal, etc. -> Electrical Energy			
+ENG_ELEC_ELECTROMAGNETS			Electromagnets			
+ENG_DEVICES		Common energy-using devices, their USAGES, and how they convert energy (e.g. a stove converts electricity to thermal energy).  For converting to electrical energy, use ENG_ELEC_GENERATE				
+ENG_POTENTIALKINETIC		Potential Energy vs Kinetic Energy				
+ENG_MEAS		Measurement of Energy				
+ENG_MEAS_UNIT			Units of energy (e.g. joules, calories)			
+ENG_MEAS_INST			Methods/devices/instruments for measuring energy			
+ENG_CONV		Converting Energy Between Forms (e.g. animals convert chemical energy (food) to heat and motion).  Conversion may not be 100% efficient, etc.				
+ENG_CONV_CONV			Converting between energy forms (e.g. mechanical to electrical).  Sometimes paired with ENG_DEVICES			
+ENG_CONV_INEFFIC			Inefficiencies in converting between energy forms/energy loss (e.g. a car is expected to travel 100km on a tank, but only travels 25km.  Where did the extra energy go?  Thermal loss/wind resistance/etc).  Perpetual motion machines can be here too.			
+ENG_INTERACTIONEM		Interaction of Energy and Matter (e.g. water is evaporated by the Sun’s heat; a bulb is lit by means of electrical current)				
+ENG_LIGHT		Light				
+ENG_LIGHT_GENERICPROP			Generic properties about light (Both a particle and a wave, etc).			
+ENG_LIGHT_ABSORPTION			Absorption			
+ENG_LIGHT_COLINCOL			Colour of objects in coloured light (this intersects with Absorption and Reflection, but is a specific kind of problem asked)			
+ENG_LIGHT_EMSPECTRUM			Electromagnetic Spectrum, Frequency/Wavelength			
+ENG_LIGHT_REFLECT			Reflection			
+ENG_LIGHT_REFRACT			Refraction, Prisms, Spreading white light into component colours.			
+ENG_LIGHT_SCATTERING			Scattering (light can be scattered)			
+ENG_LIGHT_SPEED			Speed of light, changes in a given medium			
+ENG_LIGHT_TRANSM			Transmission			
+ENG_LIGHT_REDSHIFT			Doppler/Redshift			
+ENG_THERM		Thermal Energy				
+ENG_THERM_GENERICPROP			Generic properties about thermal energy (e.g. thermal energy represents atoms vibrating, temperature is a measure of thermal energy).			
+ENG_THERM_COND			Thermal Conductivity			
+ENG_THERM_COND_CONDUCT				Conduction (Objects touching)		
+ENG_THERM_COND_CONVECT				Convection (e.g. a liquid or gas sqirling, causing high-termperature areas to heat low-temperature areas)		
+ENG_THERM_COND_RADIATION				Radiation (electromagnetic radiation heating up an object, e.g. the Sun warming the Earth)		
+ENG_THERM_COND_INDUCTION				Induction (heating a metal/electrically conducting object by electromagnetic induction)		
+ENG_THERM_HEATCOOLPROB			Heating/Cooling/Thermal energy calculation problems			
+ENG_SOUND		Sound				
+ENG_SOUND_GENERICPROP			Generic properties about sound (Sound travels as longitudinal waves, sound moves outward in all directions, sound is vibrationsi in the air, etc).			
+ENG_SOUND_AMPLITUDE			Sound Amplitude			
+ENG_SOUND_ECHO			Reflection/Echos			
+ENG_SOUND_GENERATE			Generation			
+ENG_SOUND_SPEED			Speed of sound, changes in a given medium			
+ENG_SOUND_FREQWL			Frequency/Wavelength, and conversions between			
+ENG_SOUND_DOPPLER			Doppler effect (increase/decrease frequency as you move to/from the source)			
+ENG_WAVES		Waves				
+ENG_WAVES_GENERICPROP			Generic properties about waves (waves exist in different forms (e.g. light, sound, pond ripples, etc).			
+ENG_WAVES_AMPLITUDE			Amplitude			
+ENG_WAVES_FREQWL			Frequency/Wavelength, and conversions between			
+ENG_WAVES_TYPESOFMOTION			Types of wave motion (e.g. transverse, compression)			
+ENG_WAVES_REFLECTION			Reflection			
+ENG_WAVES_REFRACTION			Refraction			
+ENG_WAVES_GENERATE			Generation			
+ENG_WAVES_TRANSFERENG			Waves transfer energy			
+						
+						
+						
+FOR	Forces					
+FOR_GRAVITY		Gravity (force of gravity pulls objects towards the center of the Earth)				
+FOR_FRICTION		Friction (change in motion of a moving object)				
+FOR_MAGNETISM		Magnetism (attract/repel)				
+FOR_MECH		Mechanical energy (e.g. the position or direction of an object can be changed by pushing or pulling, application of force through simple machines such as pulleys, levers, and inclined planes)				
+FOR_MECH_GENERAL			The position/direction of an object can be changed by pushing/pulling			
+FOR_MECH_SIMPLEMACHINES			Simple Machines (pulleys, levers, inclined planes, wedge, screw, wheel and axle)			
+FOR_INTWITHOBJ		Forces and Objects (forces of gravity and magnetism affect objects through gasses, liquids, and solids)				
+FOR_MOTPROB		Motion Problems (e.g. a train is moving at 20m/s over 100m of track, how long will it take to... etc)				
+FOR_BALANCED		Balanced Forces (e.g. if an object is acted on by two forces that are equal and opposite, then it will not move)				
+FOR_MOMENTUM		Momentum (the product of the mass and velocity of an object)				
+FOR_NEWTON		Newton's Laws of Motion				
+FOR_NEWTON_1ST			Newton's 1st law (inertia): Objects in motion tend to stay in motion unless acted on by a force			
+FOR_NEWTON_2ND			Newton's 2nd law: The greater the mass of an object, the more force it will take to accelerate the object			
+FOR_NEWTON_3RD			Newton's 3rd law: For every action, there is an equal and opposite reaction.  (i.e. when you kick a ball, the ball applies an equal and opposite force on your foot)			
+FOR_AIRRESISTANCE		Air resistance (e.g. aerodynamics, parachutes generate air resistance to decelerate, etc.)				
+FOR_LIFT		Lift (force used by airplanes to counteract gravity)				
+FOR_VELOCITY		Velocity/Speed				
+FOR_WORK		Work (work is force over distance)				
+FOR_POWER		Power (power is work over time)				
+FOR_PRESSURE		Pressure (force of something (including a solid, liquid, or gas) on another object)				
+						
+						
+						
+CEL	Celestial Phenomena					
+CEL_CYCLES		Natural Cycles and Patterns (e.g. Seasons/daylight, weather changes, Earth /spinning/ around once every 24 hours, Earth /orbiting/ the sun, the time for the moon to orbit the Earth)				
+CEL_TIMEMOTION		Time units and natural motion (second, minute, hour, week, month).  Time zones.				
+CEL_APPARENTMOTION		Apparent Celestial Motion (The Sun and other stars appear to move in a recognizable pattern both daily and seasonally from an observer on Earth, solar motion, lunar motion, motion of stars, motion of constellations)				
+CEL_DISTANCES		Celestial Distances/Locations (Relative or absolute distances between sun, planets, other stars; closest star to Earth; planetary ordering, moon distance ordering, etc)				
+CEL_DISTANCES_UNITS			Units for celestial distances (light year, astronomical unit)			
+CEL_SIZES		Planetary/Stellar Sizes (Relative or absolute sizes of stars, planets, and/or moons)				
+CEL_BRIGHTNESS		Planetary/Stellar Brightnesses/Apparent Brightness (Inverse square law, farther celestial objects are generally less bright unless they are very large or very reflective, reflectivity)				
+CEL_FEATURES		Planetary/Stellar Definitions and Features (e.g. the moon is full of craters, Venus has a dense atmosphere, Mars is red and has a minimal atmosphere, black holes are super dense, etc)				
+CEL_FEATURES_PLANET			Planetary definitions/features			
+CEL_FEATURES_MOONS			Moon definitions/features			
+CEL_FEATURES_STELLAR			Stellar definitions/features			
+CEL_FEATURES_GALACTIC			Galactic definitions/features			
+CEL_FEATURES_NEBULAE			Nebulae definitions/features			
+CEL_FEATURES_SOLARSYSTEMS			Solar System definitions/features (e.g. asteroid belts, oort cloud, parts of a solar system/overall structure, etc)			
+CEL_FEATURES_BLACKHOLE			Black hole definitions/features			
+CEL_FEATURES_COMET			Comet definitions/features			
+CEL_FEATURES_METEOR			Meteor/Meteorite definitions/features			
+CEL_FEATURES_OTHER			Other definitions/features			
+CEL_INSTRUMENTS		Instruments for astronomy (e.g. telescopes, cameras)				
+CEL_TIDES		Causes of tides / lunar effects on tides				
+CEL_MOONPHASES		Lunar phases (full, new, waxing, waning)				
+CEL_ECLIPSE		Eclipses				
+CEL_SPACEEX		Space Exploration				
+CEL_SPACEEX_HUMAN			Space Exploration (Human)			
+CEL_SPACEEX_ROBOT			Space Exploration (Robotic)			
+CEL_SPACEEX_VEHICLE			Space Exploration (Rockets/Spacecraft)			
+CEL_SEARCHLIFE		Search for extraterestrial life				
+CEL_COSMOLOGY		Origin and development of universe.  Big bang, expansion, etc.				
+CEL_ORBIT		Orbits are elliptical.  Gravity causes objects to orbit each other.  Tidally locked orbits.				
+CEL_GRAVPULL		Weightlessness/Differences in weight due to gravitational pull/differences in gravitational pull due to the mass of a celestial object.				
+						
+						
+						
+EARTH	The Earth					
+EARTH_WEATHER		Weather				
+EARTH_WEATHER_DEF			Weather/Climate Definition (definition, the condition of the outside air at a particular moment)			
+EARTH_WEATHER_MODELS			Weather Models/Climate Models (e.g. station model)			
+EARTH_WEATHER_MEAS			Weather measurement (temperature, wind speed, form and amount of precipitation, sky conditions, e.g, cloudy, sunny)			
+EARTH_WEATHER_MEAS_WINDSPEED				Wind Speed		
+EARTH_WEATHER_MEAS_PRECIP				Amount of Precipitation		
+EARTH_WEATHER_CLOUDS			Clouds, cloud types, formation of specific cloud types			
+EARTH_WEATHER_WATERCYC			The Water Cycle (evaporation, condensation, precipitation, runoff & groundwater)			
+EARTH_WEATHER_WATERCYC_PREC				Precipitation		
+EARTH_WEATHER_WATERCYC_GROUNDWATER				Runoff and groundwater		
+EARTH_WEATHER_WATERCYC_EVAPCOND				Evaporation and Condensation		
+EARTH_WEATHER_WATERCYC_SUN				The Sun and the Water Cycle (Heat energy from the Sun powers the water cycle)		
+EARTH_WEATHER_ERO			Erosion, weathering, and deposition (interaction among air, water, land, gravity; soil is living and non-living material, wind erosion, ice wedging, weathering)			
+EARTH_WEATHER_ERO_WEATHERING				Weathering (breaking down rocks, from weather or chemical or mechanical means -- e.g. wind, water, ice, plants, animals)		
+EARTH_WEATHER_ERO_EROSION				Erosion (moving sediment from broken rock, by e.g. wind, water, ice, gravity)		
+EARTH_WEATHER_ERO_DEPOSITION				Deposition (moving sediment to a new place, e.g. formation of sand dunes)		
+EARTH_WEATHER_EXTREME			Extreme natural events (floods, fires, droughts, volcanic eruptions, hurricanes, tornadoes; positive & negative effects)			
+EARTH_WEATHER_GEOEFF			Geographic effects on weather (e.g. humidity from being near an ocean)			
+EARTH_WEATHER_CLIMATE			Climate of Specific Locations (e.g. place X has climate Y)			
+EARTH_WEATHER_JETSTREAM			The Jetstream			
+EARTH_WEATHER_BAROPRESSURE			Barometric Pressure/Air Pressure			
+EARTH_WEATHER_WIND			Wind			
+EARTH_WEATHER_AIRMASS			Air Masses			
+EARTH_HUMIMP		Human Impacts				
+EARTH_HUMIMP_HOW			How Humans Affect the Environment (Over time humans have changed their environment by cultivating crops and raising animals, creating shelter)			
+EARTH_HUMIMP_WHAT			Human Impact's on the Environment (Humans alter environments in ways that can be either helpful or harmful for themselves and other organisms)			
+EARTH_HUMIMP_WHAT_POLL				Pollution/Pesticides		
+EARTH_HUMIMP_WHAT_POLL_WATER					Water Pollution	
+EARTH_HUMIMP_WHAT_POLL_AIR					Air Pollution.  Ozone depletion.	
+EARTH_HUMIMP_WHAT_POLL_SOIL					Soil Pollution	
+EARTH_HUMIMP_WHAT_POLL_NOISE					Noise Pollution	
+EARTH_HUMIMP_WHAT_RECY				Recycling (what kinds of materials are recyclable, the positive benefit of recycling)		
+EARTH_HUMIMP_WHAT_CONSERVE				Conservation (turning off the lights to use less electricity, water management/using less water, more fuel efficient vehicles, etc)		
+EARTH_HUMIMP_WHAT_HABITATDEST				Habitat Destruction/Animal Displacement		
+EARTH_HUMIMP_WHAT_POPDEST				Overhunting/Population Destruction		
+EARTH_HUMIMP_WHAT_GLOBALWARMING				Global Warming		
+EARTH_HUMIMP_RES			Resources (use these categories to describe both the human impacts, as well as general properties/usages of these resources)			
+EARTH_HUMIMP_RES_RENEWABLE				renewable vs non-renewable, benefits of renewable resources		
+EARTH_HUMIMP_RES_FOSSILFUEL				Fossil fuels (generic, not refering to a specific fossil fuel like oil/coal/natural gas)		
+EARTH_HUMIMP_RES_SOIL				soil		
+EARTH_HUMIMP_RES_TREES				trees/lumber		
+EARTH_HUMIMP_RES_COAL				coal		
+EARTH_HUMIMP_RES_OIL				oil		
+EARTH_HUMIMP_RES_NATGAS				natural gas		
+EARTH_HUMIMP_RES_SOLAR				solar energy		
+EARTH_HUMIMP_RES_WIND				wind energy		
+EARTH_HUMIMP_RES_WATER				water		
+EARTH_HUMIMP_RES_GEOTHERMAL				geothermal energy		
+EARTH_HUMIMP_RES_NUCLEAR				nuclear energy		
+EARTH_HUMIMP_RES_HYDRO				hydroelectric power		
+EARTH_HUMIMP_RES_MINING				minerals/mining		
+EARTH_SOIL		Soil				
+EARTH_SOIL_COMPONENTS			Components/layers of soil			
+EARTH_SOIL_ECOSYSTEM			Soil's role with plants/in an ecosystem			
+EARTH_GEO		Geology				
+EARTH_GEO_ROCK			Formation of Types of Rock			
+EARTH_GEO_ROCK_IDENT				Identifying Types of Rock		
+EARTH_GEO_ROCK_CHANGE				Changing between types of rock		
+EARTH_GEO_ROCK_META				Metamorphic Properties		
+EARTH_GEO_ROCK_INGE				Igneous Properties		
+EARTH_GEO_ROCK_SED				Sedimentary Properties		
+EARTH_GEO_MINERAL			Minerals			
+EARTH_GEO_MINERAL_IDENT				Identification (e.g. streak)		
+EARTH_GEO_MINERAL_FORMATION				Formation (where/how are minerals likely to form)		
+EARTH_GEO_FOSSILS			Fossils			
+EARTH_GEO_FOSSILS_LOC				Inferring properties about a LOCATION/ENVIRONMENT in the past based on the fossils that have been found in it		
+EARTH_GEO_FOSSILS_SPECIES				Inferring properties about a SPECIES in the past based on the fossils that have been found		
+EARTH_GEO_FOSSILS_ROCKTYPES				Formation/Types of rock that fossils form/are preserved/found in		
+EARTH_GEO_FOSSILS_INDEX				Index fossils / dating fossils / dating rocks using fossils		
+EARTH_GEO_FORMATIONS			Geological Formations/Structures, and how they were formed (e.g. how are caves formed).  Note this may be used in conjunction with the WEATHERING/EROSION labels.			
+EARTH_GEO_HISTORY			Geological History (major geological events of the past)			
+EARTH_OUTER		Outer Structure				
+EARTH_OUTER_LITH			Lithosphere (the outtermost part of the earth, consisting of crust and upper mantle)			
+EARTH_OUTER_HYDRO			Hydrosphere (the oceans/water, content of oceans/freshwater bodies, relative sizes/etc)			
+EARTH_OUTER_ATMOS			Atmosphere (e.g. What is the atmosphere made out of?  What are the layers of the atmosphere? etc)			
+EARTH_INNER		Inner Structure				
+EARTH_INNER_CMC			Crust/Mantle/Core model			
+EARTH_INNER_CMC_CRUST				Crust		
+EARTH_INNER_CMC_MANTLE				Mantle		
+EARTH_INNER_CMC_CORE				Core		
+EARTH_INNER_INTHEAT			Internal Heat			
+EARTH_INNER_PLATE			Plate Techtonics, Continental Drift, Mountain Formation (non-volcanic), Volcanoe formation			
+EARTH_INNER_PLATE_GEN				Generic plate techtonics		
+EARTH_INNER_PLATE_CONTDRIFT				Continental Drift		
+EARTH_INNER_PLATE_MOUNTFORM				Mountain Formation (non-volcanic)		
+EARTH_INNER_PLATE_VOLC				Volcanoe Formation/Structure		
+EARTH_INNER_EARTHQUAKES			Earthquakes/Seismic Waves			
+EARTH_CARDDIRECTION		Cardinal Direction (e.g. north, east, south, west; measurement of this, e.g. compass)				
+EARTH_LATLONG		Latitude/Longitude (and measurement of this, e.g. sextant)				
+						
+						
+						
+LIFE	Living Things					
+LIFE_LIVINGNONLIVING		Living vs Non-living (Nonliving things do not live and thrive)				
+LIFE_CLASSIFICATION		Classification/Identification of living things (kingdoms,vertebrate/invertebrate, etc)				
+LIFE_MEASTOOLS		Tools for studying life (e.g. microscopes, dissection kits, etc)				
+LIFE_REPROD		Reproduction				
+LIFE_REPROD_SEXASEX			Sexual vs Asexual Reproduction			
+LIFE_REPROD_SEXASEX_SEX				Sexual Reproduction		
+LIFE_REPROD_SEXASEX_ASEX				Asexual Reproduction		
+LIFE_REPROD_DNAINHERIT			DNA, Inheritance/Heredity			
+LIFE_REPROD_DNAINHERIT_DNA				DNA (Generic properties: DNA encodes information about the organism, gene is the smallest unit of inheritable information, etc.)		
+LIFE_REPROD_DNAINHERIT_INHERIT				Inherited Characteristics		
+LIFE_REPROD_DNAINHERIT_ACQUIRED				Acquired/Learned Characteristics/Behaviors		
+LIFE_REPROD_DNAINHERIT_DOMRECESS				Dominant/Recessive Genes, Crossing, Probability calculations for having particular traits		
+LIFE_REPROD_DNAINHERIT_MUTATION				Mutation		
+LIFE_REPROD_DNAINHERIT_SELBREEDING				Selective Breeding		
+LIFE_REPROD_DNAINHERIT_GENDRIFT				Genetic Drift		
+LIFE_REPROD_COMPETITION			Competition (some living things compete between members of their own species to reproduce)			
+LIFE_ENVADP		The Environment and Adaptation (senses, habitats, behavior, camouflage)				
+LIFE_ENVADP_ADAP			Adaptation			
+LIFE_ENVADP_ADAP_ANIM				Animal Adaptations (Each animal has different structures that serve different functions in growth, survival, and reproduction, migration)		
+LIFE_ENVADP_ADAP_ANIM_STRUCT					Structures (Particular animal characteristics are influenced by changing environmental conditions including: fat storage in winter, coat thickness in winter) 	
+LIFE_ENVADP_ADAP_ANIM_STRUCT_SENSES						senses
+LIFE_ENVADP_ADAP_ANIM_STRUCT_FAT						fat storage in winter
+LIFE_ENVADP_ADAP_ANIM_STRUCT_FUR						thick fur in winter
+LIFE_ENVADP_ADAP_ANIM_STRUCT_HUNTING						hunting (e.g. sharp teeth, fast speed, etc)
+LIFE_ENVADP_ADAP_ANIM_STRUCT_DEFENSE						defense (e.g. octopus ink, skunk odor, bright color, porcpine extends quills)
+LIFE_ENVADP_ADAP_ANIM_STRUCT_CAMO						camouflage
+LIFE_ENVADP_ADAP_ANIM_BEHAV					Behaviors (Some animal behaviors are influenced by environmental conditions, e.g., nest building, hibernating, hunting, migrating, and communicating) 	
+LIFE_ENVADP_ADAP_ANIM_BEHAV_MIGR						migration
+LIFE_ENVADP_ADAP_ANIM_BEHAV_HIBER						hibernation
+LIFE_ENVADP_ADAP_ANIM_BEHAV_NESTBLDG						nest building
+LIFE_ENVADP_ADAP_ANIM_BEHAV_COMM						communicating
+LIFE_ENVADP_ADAP_ANIM_BEHAV_HUNT						hunting?
+LIFE_ENVADP_ADAP_PLANT				Plant Adaptations (Each plant has different structures that serve different functions in growth, survival, and reproduction)		
+LIFE_ENVADP_ADAP_PLANT_DEF					spines/defensive	
+LIFE_ENVADP_COMP			Competition (Adaptations to be better at competing -- Individuals within a species may compete with each other for food, mates, space, water, and shelter in their environment, e.g. giraffe's long neck to get at the highest leaves)			
+LIFE_ENVADP_NATSEL			Natural Selection (All individuals have variations, and because of these variations, individuals of a species may have an advantage in surviving and reproducing)			
+LIFE_CONTL		Continuity of Life (life cycle, life span, offspring, reproduction) 				
+LIFE_CONTL_PLANTLCYC			Plant Life Cycles/Stages (Each kind of plant goes through its own stages of growth and development that may include seed, young plant, and mature plant)			
+LIFE_CONTL_PLANTLSPAN			Plant Life Spans (The length of time from beginning of development to death of the plant is called its life span)			
+LIFE_CONTL_ANIMLCYC			Animal Life Cycles/Stages (Each generation of animals goes through changes in form from young to adult, each kind of animal goes through its own stages of growth and development during its life span)			
+LIFE_CONTL_ANIMLCYC_MAMMAL				Mammal		
+LIFE_CONTL_ANIMLCYC_AMPHIB				Amphibian/Metamorphosis		
+LIFE_CONTL_ANIMLCYC_INSECT				Insect/Metamorphosis		
+LIFE_CONTL_ANIMLCYC_BIRD				Birds		
+LIFE_CONTL_ANIMLCYC_REPTILE				Reptiles		
+LIFE_CONTL_ANIMLSPAN			Animal Life Spans (The length of time from an animal’s birth to its death is called its life span. Life spans of different animals vary)			
+LIFE_CONTL_GROWTH			Growth			
+LIFE_CONTL_GROWTH_DEF				Definition (Growth is the process by which plants and animals increase in size)		
+LIFE_CONTL_GROWTH_PROC				Growth Processes (Food supplies the energy and materials necessary for growth and repair.)		
+LIFE_INTERDEP		Ecology/Interdependence (food web, producers, consumers, decomposers)				
+LIFE_INTERDEP_ECOFEATURES			Features of ecosystems/biomes (e.g. a forest has trees, a desert ecosystem has little water, classifying ecosystems based on their features.)			
+LIFE_INTERDEP_FOODCHAIN			Food Chains/Webs/Pyramids			
+LIFE_INTERDEP_FOODCHAIN_DEF				Definition/Structural		
+LIFE_INTERDEP_FOODCHAIN_PLANTPROD				Plant Producers (Green plants are producers because they provide the basic food supply for themselves and animals; Plants manufacture food by utilizing air, water, and energy from the Sun)		
+LIFE_INTERDEP_FOODCHAIN_CONSUMERS				Animal Dependence/Consumers (All animals depend on plants. Some animals - predators - eat other animals - prey.  Herbivore/Carnivore/Omnivore)		
+LIFE_INTERDEP_FOODCHAIN_DECOMPOSER				Decomposers/Scavengers (Decomposers are living things that play a vital role in recycling nutrients)		
+LIFE_INTERDEP_FOODCHAIN_SUN				The Sun and Food Chains (The Sun’s energy is transferred on Earth from plants to animals through the food; the Sun is the ultimate source of energy for nearly all living things on Earth)		
+LIFE_INTERDEP_SUCCESSION			Ecological Succession (the evolution of a biological community over time.  primary succession/secondary succession/climax communities.  steps that ecosystems proceed in to take an essentially lifeless area (like a forest after a fire) and make it habitable again)			
+LIFE_INTERDEP_POPDYN			Population Dynamics (competition, predator/prey population interdependence, limited resource dependence, organisms are affected by the kinds and numbers of other organisms present, the availability of food and other resources)			
+LIFE_INTERDEP_RELSPECIES			Relationships between species (Predator/Prey, Parasitism, Mutualism, Commensalism)			
+LIFE_INTERDEP_ENVCH			Responses to Environmental Change (When the environment changes, needs may not be met. Some plants and animals survive and reproduce, and others die or move to new locations. E.g. human's destroy animal habitats, what will the animals most likely do)			
+LIFE_INTERDEP_ABIOTIC			Identifying Biotic/Abiotic Factors in Ecosystems (e.g. water is an abiotic (non-living) part of an ecosystem)			
+LIFE_CARBONCYCLE		The Carbon Cycle (carbon travels from the atmosphere into organisms/the Earth, then back to the atmosphere)				
+LIFE_NITROGENCYCLE		The Nitrogen Cycle (nitrogen in air converted to nitrates by lighting, brought to soil by rain, plants absorb from soil, animals eat plants, returns to soil as ammonia through droppings/decomposers)				
+LIFE_FUNCT		Life Functions (breathing, growing, eating, food supply)				
+LIFE_FUNCT_FUNCT			Life Functions (All living things grow, take in nutrients, breathe, reproduce, and eliminate waste, and die; air, water, food)			
+LIFE_FUNCT_FUNCT_ANIMESS				Essentials for animals (Animals need air, water, and food in order to live and thrive)		
+LIFE_FUNCT_FUNCT_ANIMESS_NUTRITION					Eating/Nutrition for animals (carbohydrates, fats, minerals, proteins, vitamins)	
+LIFE_FUNCT_FUNCT_PLANTESS				Essentials for plants (Plants require air, water, nutrients, and light in order to live and thrive)		
+LIFE_FUNCT_FEATANDFUNCT			Features and Functions (parts and their functions, e.g. a leaf is used for photosynthesis; An organism’s external physical features can enable it to carry out life functions in its particular environment)			
+LIFE_FUNCT_FEATANDFUNCT_ANIM				Animal features and functions		
+LIFE_FUNCT_FEATANDFUNCT_ANIM_SENSES					Senses (Senses can provide essential information regarding danger, food, mates, etc. to animals about their environment)	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_DIGEST					Digestion	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_EXCRET					Waste removal	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_BREATHING					Respiration/Breathing/O2/CO2	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_IMMUNE					Immune System/Lymphatic System	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_CIRCULATORY					Circulatory/Heart/Blood	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_NERVOUSSYSTEM					Nervous System (brain, nerves)	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_LOCOMOTION					Locomotion (how do animals move)	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_MUSCULAR					Muscular System	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_SKININTERGUM					Intergumentary System (skin, hair, scales, feathers, hooves, and nails).	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_SKELETAL					Skeletal/Support Systems	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_REPRODUCTION					Reproduction	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_ENDOCRINE					Endocrine system (hormones/glands that regulate various functions)	
+LIFE_FUNCT_FEATANDFUNCT_ANIM_FEEDBACK					Feedback systems (positive/negative).  Note these may be highly correlated with the endocrine system above.	
+LIFE_FUNCT_FEATANDFUNCT_PLANT				Plant features and functions		
+LIFE_FUNCT_FEATANDFUNCT_PLANT_PHOTOSYNTH					Light/Photosynthesis/How Photosynthesis works	
+LIFE_FUNCT_FEATANDFUNCT_PLANT_ROOT					Roots	
+LIFE_FUNCT_FEATANDFUNCT_PLANT_STEM					Stem/Trunk	
+LIFE_FUNCT_FEATANDFUNCT_PLANT_LEAF					Leaves	
+LIFE_FUNCT_FEATANDFUNCT_PLANT_VASCULAR					Vascular plants	
+LIFE_FUNCT_FEATANDFUNCT_PLANT_TRANSPIR					Transpiration (water movement through plants from roots to leaves/stems/flowers)	
+LIFE_FUNCT_FEATANDFUNCT_PLANT_REPRODUCTION					Reproduction/Pollination/Flowers/Fruit	
+LIFE_FUNCT_FEATANDFUNCT_PLANT_REPRODUCTION_SEEDDISP						Seed Dispersal
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO				Cellular Biology (bacteria, single vs multicellular, cell theory)		
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_UNIMULTICELL					Single vs Multicellular / Prokarotic vs Eukaryotic Cells	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_CELLTHEORY					Cell Theory (all living organisms composed of cells, cell is the basic unit of structure and organization of organisms, cells arise from preexisting cells)	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_ANIMCELL					Animal Cells (Overall structure/functioning of animal cells)	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_PLANTCELL					Plant Cells (Overall structure/functioning of plant cells)	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_GENEEXPR					Gene Expression	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STEMCELLS					Stem Cells	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_REPROD					Generic cell reproduction (cell cycle), not tied to meiosis/mitosis (note: refactor later after annotation complete to have meiosis/mitosis as categories under this?)	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_MEIOSIS					Meiosis (Cellular reproduction of germ/sex cells only)	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_MITOSIS					Mitosis (Cellular reproduction of body/somatic cells, but not germ/sex cells)	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_RESPIR					Cellular Respiration	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_PROTEINS					Proteins and components (e.g. amino acids, peptide bonds)	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_REPRODOTHER					Reproduction of Bacteria and Viruses (or generally, non-plant, non-animal cells)	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT					Cell Structure and Function	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLWALL						Cell Wall
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CELLMEMB						Cells or Plasma Membrane
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_VACUOLE						Central Vacuole
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHLOROPLAST						Chloroplasts
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CHROMOSOME						Chromosomes
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_CYTOPLCYTOSKEL						Cytoplasm/Cytoskeleton
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_ENDORET						Endoplasmic Reticulum (ER)
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_GOLGI						Golgi Body
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_LYSO						Lysosomes
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_MITO						Mitochondria
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_NUCLEUS						Nucleus
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_STRUCT_RIBOSOMES						Ribosomes
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_ORG					Levels of Organization of Living Things	
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_ORG_CELLS						Cells
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_ORG_TISSUES						Tissues
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_ORG_ORGANS						Organs
+LIFE_FUNCT_FEATANDFUNCT_CELLBIO_ORG_ORGSYSTEMS						Organ Systems
+LIFE_HEALTH		Human Health (Humans need a variety of healthy foods, exercise, and rest in order to grow and maintain good health)				
+LIFE_HEALTH_GOODHABITS			Good and Bad Health Habits (hand washing and personal cleanliness; avoiding harmful substances, e.g., including alcohol, tobacco, illicit drugs; eating a balanced diet)			
+LIFE_HEALTH_DIESEASE			Disease			
+LIFE_HEALTH_DIESEASE_INFECT				Infections/Infectious (e.g. viral, bacterial, fungal)		
+LIFE_HEALTH_DIESEASE_NONINFECT				Non-infectious/environmentally caused (e.g. heart disease)		
+LIFE_HEALTH_DIESEASE_NONINFECT_GENETIC					Diseases caused by Genetic disorders	
+LIFE_HEALTH_DIESEASE_PANDEMICEPIDEMIC					Pandemics, Pandemics vs Epidemics	
+LIFE_HEALTH_DIESEASE_PREVENTION					Disease Prevention	
+LIFE_FUNCT_ENVCOND		Development and the Environment (The health, growth, and development of organisms are affected by environmental conditions such as the availability of food, air, water, space, shelter, heat, and sunlight)				
+LIFE_FUNCT_ENVCOND_ANIM			Environmental effects on animals			
+LIFE_FUNCT_ENVCOND_PLANT			Environmental effects on plants (e.g. droughts, floods)			
+LIFE_FUNCT_ENVRESP		Responses to Immediate Environmental Changes				
+LIFE_FUNCT_ENVRESP_PLANT			Plants and their Environment (Plants respond to changes in their environment. For example, the leaves of some green plants change position as the direction of light changes)			
+LIFE_FUNCT_ENVRESP_ANIM			Animals and their Environment (Animals respond to change in their environment, e.g., perspiration, heart rate, breathing rate, eye blinking, shivering, and salivating, finding shelter when it rains)			
+LIFE_EXTINCTION		Extinction				
+LIFE_EXTINCTION_MASSEX			Mass extinction (events, causes, etc. -- e.g. asteroid impacts)			
+						
+						
+						
+SAF	Safety					
+SAF_EQUIP		Lab safety equipment (e.g. goggles, gloves, aprons, etc)				
+SAF_PROC		Safety Procedures (e.g. talking to the teacher if you spill chemicals or break items)				
+						
+						
+						
+SCI	Scientific Method					
+SCI_INFERENCE		Components of Scientific Inference (hypothesis, experiments, observation/data collection, interpretation)				
+SCI_INFERENCE_STEPS			Generic/Step Ordering (e.g. hypothesis comes before experiment)			
+SCI_INFERENCE_QUESTIONING			Questioning			
+SCI_INFERENCE_HYP			Hypothesis			
+SCI_INFERENCE_EXPDESIGN			Designing Experiments			
+SCI_INFERENCE_EXPRUN			Running Experiments			
+SCI_INFERENCE_OBSERV			Observation/Data Collection			
+SCI_INFERENCE_REPORT			Reporting Results			
+SCI_INFERENCE_INFERENCE			Making inferences from results			
+SCI_INFERENCE_FORMLAWS			Forming Laws and Theories			
+SCI_INFERENCE_VERIF			Verification of Results/Replication/Peer Review			
+SCI_INFERENCE_BIAS			Bias			
+SCI_INFERENCE_SAMPLESIZE			Sample Size (the higher the sample size, the more stable the result)			
+SCI_INFERENCE_WHATTESTING			Figuring out what an experiment being described is testing (e.g. a student performs experiment X.... what was it designed to test?)			
+SCI_INFERENCE_TESTABLE			Identifying testable (or, easily testable) predictions.  (i.e., what are questions that can be answered by science?)			
+SCI_GRAPH		Graphical Communication of Data (i.e. what graph would be appropriate to communicate a given kind of data)				
+SCI_SOURCES		Sources for scientific information (e.g. a scientific journal article vs a newspaper article, or an opinion from someone)				
+SCI_MODELS		Developing explicit models of a process				
+						
+						
+						
+OTHER		Other				
+OTHER_HIST	Who did what, which came first questions.					
+OTHER_HIST_INVENT		Inventions and their impact				
+OTHER_CURIOSITY	Curiosity drives innovation/discovery/Leonardo Da Vinci					
+OTHER_INSTRUCTIONS	Instructions (reading instructions is required to build something)					
+OTHER_DEVICE	Device use that does not involve the topic of energy					
+OTHER_ENGINEERING	The Engineering design process					
+OTHER_MANUFACTURE	The Manufacturing Process					
